@@ -1,0 +1,9 @@
+{
+  "name": "Headshot Panel",
+  "short_name": "Panel",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ff6600",
+  "icons": []
+}
